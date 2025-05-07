@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Práctico de Consumo de API Rest con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-carlos-aguilera/api-rest-javascript-practico.git"
+  },
+  "author": "Juan Carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juan-carlos-aguilera/api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/juan-carlos-aguilera/api-rest-javascript-practico#readme"
+}
